@@ -1,4 +1,4 @@
-module github.com/codenotary/immustat
+module github.com/codenotary/immudb-status
 
 go 1.18
 
